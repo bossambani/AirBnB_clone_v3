@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir api && cd api && touch __init__.py
+mkdir -p /api/v1 
